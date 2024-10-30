@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileUploadWithResume.AppClient", "FileUploadWithResume.AppClient\FileUploadWithResume.AppClient.csproj", "{DED5377C-24F3-4347-A5D7-BADBC4D367B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileUploadWithResume.Web", "FileUploadWithResume.Web\FileUploadWithResume.Web.csproj", "{A38E8570-F656-4637-8341-5C01D0EEB24C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED5377C-24F3-4347-A5D7-BADBC4D367B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED5377C-24F3-4347-A5D7-BADBC4D367B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED5377C-24F3-4347-A5D7-BADBC4D367B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED5377C-24F3-4347-A5D7-BADBC4D367B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38E8570-F656-4637-8341-5C01D0EEB24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38E8570-F656-4637-8341-5C01D0EEB24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38E8570-F656-4637-8341-5C01D0EEB24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38E8570-F656-4637-8341-5C01D0EEB24C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C0B2FB5-E092-43CB-902C-F19C3CF2141D}
+	EndGlobalSection
+EndGlobal
